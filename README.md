@@ -1,4 +1,7 @@
 # Lists
+## Aadi Havele
+## 25070123001
+## ENTC A-1
 ## Aim:
 To understand Python lists and perform operations such as indexing, slicing, and using built-in list methods.
 
